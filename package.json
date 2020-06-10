@@ -1,0 +1,26 @@
+{
+  "name": "HTMLCSSCourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GigioR/HTMLCSSCourse.git"
+  },
+  "keywords": [],
+  "author": "Giovanni Pimenta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GigioR/HTMLCSSCourse/issues"
+  },
+  "homepage": "https://github.com/GigioR/HTMLCSSCourse#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "nunjucks": "^3.2.1"
+  }
+}
