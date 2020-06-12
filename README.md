@@ -10,5 +10,5 @@ I actually learned a lot from the videos I watched:
 - [x] Back-end in Node.js using Express
 
 What I missed of the last video:
-- [] How to integrate my app with a noSQL data base
-- [] Getting data from the DB and show them on the page
+- How to integrate my app with a noSQL data base
+- Getting data from the DB and show them on the page
